@@ -1,0 +1,31 @@
+.firstpart{
+    border: 3px solid rgb(250, 249, 249);
+    box-shadow: 0px 2px 10px  black;
+   
+}
+.secondpart{
+    border: 3px solid rgb(250, 249, 249);
+    box-shadow: 0px 2px 10px  black;
+}
+.thirdpart{
+    border: 3px solid rgb(250, 249, 249);
+    box-shadow: 0px 2px 10px  black;
+}
+.dd_imgefirst{
+    border-radius: 50%;
+    height: 70px;
+    margin: 10px;
+   
+}
+.dd_graps{
+    margin-left: -50px;
+}
+.star-rating {
+    font-size: 24px;
+    color: #d3d3d3; 
+}
+
+.star-rating .filled {
+    color: #ffc107; 
+}
+  

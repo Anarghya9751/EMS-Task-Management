@@ -1,0 +1,28 @@
+.custom-column-class{
+    height: 100px;
+    color: blue;
+    background-color: rgb(210, 236, 236);
+}
+.ant-table-cell {
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    margin-top: 0;
+    color: rgb(20, 15, 2);/* Adjust padding to increase cell height */
+  }
+  .progress-container {
+   
+    top: 50px; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    z-index: 1000;
+    width: 20%;
+   
+    margin-bottom: 10px;
+    float: right; /* Ensure it's above other elements */
+  }
+  .ant-table-thead th.custom-column-class {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: red !important;
+    height: 60px !important;/* Set the desired text color */
+  }

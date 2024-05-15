@@ -1,0 +1,15 @@
+
+.tableContainer {
+    margin-top: 20px;
+    width:  80%;
+    margin: 0 auto;
+  }
+  
+  .ant-modal-body {
+    padding: 20px;
+  }
+  
+  .ant-form-item {
+    margin-bottom: 16px;
+  }
+  

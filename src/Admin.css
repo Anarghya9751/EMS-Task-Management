@@ -1,0 +1,121 @@
+.areygrap{
+    border: black;
+    box-shadow: 0px 0px 10px rgb(63, 63, 64);
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 9px;
+   margin-left: 18px;
+    
+}
+.donut{
+    margin-top: 30px;
+}
+.amout{
+    border: black;
+    box-shadow: 0px 0px 10px rgb(208, 208, 209);
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+   
+
+}
+.imagess{
+    margin-top: 10px;
+}
+.totalamu{
+    margin-left: 80%;
+    margin-top: 6px;
+    border-style: inset;
+    border-width: 2px;
+    width: 200px;
+    
+   
+}
+.numbe{
+    margin-top: -4px;
+}
+.rup{
+    margin-top: 3px;
+}
+.user20{
+    justify-content: center;
+}
+.dontbtn button{
+    margin-left: 150px;
+}
+.border{
+    border: black;
+    box-shadow: 0px 0px 10px rgb(239, 212, 174);
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(167, 147, 155);
+}
+.border5{
+    border: black;
+    box-shadow: 0px 0px 10px rgb(239, 212, 174);
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+    background-color: rgb(241, 158, 191);
+}
+.border1{
+    border: black;
+    box-shadow: 0px 0px 10px rgb(239, 212, 174);
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+   
+}
+.border2{
+    border: black;
+    box-shadow: 0px 0px 10px rgb(77, 76, 75);
+    margin-top: 20px;
+   
+    border-radius: 15px;
+    background-color: rgb(254, 255, 255);
+    margin-left: 10px;
+}
+.bordersid{
+    border: black;
+    box-shadow: 0px 0px 10px rgb(102, 101, 100);
+    margin-top: 20px;
+   
+    border-radius: 15px;
+    background-color: rgb(254, 255, 255);
+    
+}
+
+.imgbox{
+   
+    width: 90px;
+    height: 60px;
+    margin-right: 20px;
+    margin-top: 60px;
+    border-radius: 6px;
+    background-color: rgb(145, 145, 155);
+}
+.imgbox1{
+  
+    width: 90px;
+    height: 60px;
+    margin-right: 20px;
+    margin-top: 60px;
+    border-radius: 6px;
+    background-color: rgb(246, 215, 165);
+}
+.imgbox2{
+   
+    width: 90px;
+    height: 60px;
+    margin-right: 20px;
+    margin-top: 60px;
+    border-radius: 6px;
+    background-color: rgb(245, 192, 192);
+}
+
+
+
+    
+
+

@@ -1,0 +1,92 @@
+
+
+
+
+.branch-page {
+    padding: 20px;
+  }
+  
+  .branch-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); 
+    grid-gap: 20px;
+  }
+  
+  .branch-card {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    padding: 30px; 
+    border-radius: 10px; 
+    transition: background-color 0.3s; 
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .branch-card:hover {
+    background-color: #f0f0f0; 
+  }
+  
+  .edit-delete-icons {
+    position: absolute;
+    top: 20px; 
+    right: 20px;
+  }
+  
+  .edit-delete-icons > svg {
+    margin-left: 10px; 
+    cursor: pointer;
+    color: #555; 
+  }
+  
+  .edit-delete-icons > svg:hover {
+    color: #333; 
+  }
+  
+  .popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .popup-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: #888; 
+  }
+  
+  .close:hover {
+    color: #666; 
+  }
+  
+  .add-branch-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-branch-button:hover {
+    background-color: #0056b3;
+  }
+  

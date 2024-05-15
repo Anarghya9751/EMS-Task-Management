@@ -1,0 +1,306 @@
+
+/* .card_box{
+  margin-bottom: 50px;
+  width: 45%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(247, 242, 241, 0);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(26, 1, 1, 0.979);
+}
+
+.cardbody {
+ 
+  width: 90%;
+  padding: 0;
+  margin-left: 5%;
+
+}
+
+.card-title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+/* Base styles */
+/* 
+.card_box{
+  margin-bottom: 50px;
+  width: 45%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(247, 242, 241, 0);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(26, 1, 1, 0.979);
+}
+
+.cardbody {
+ 
+  width: 90%;
+  padding: 0;
+  margin-left: 5%;
+
+}
+
+.card-title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 10px black;
+}
+
+/* textarea.form-control {
+  min-height: 100px;
+} */
+
+
+
+ /* .date-inputs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date-input {
+  flex: 1;
+  margin-right: 10px;
+} */
+
+/* @media (max-width: 768px) {
+  .date-inputs {
+    flex-direction: column;
+  }
+
+  .date-input {
+    flex: none;
+    margin-right: 0;
+    margin-bottom: 10px; 
+  }
+} */
+
+/* 
+.button-group {
+  display: flex;
+  margin-top: 20px;
+ 
+}
+
+.button-group button {
+  margin-right: 10px; 
+}
+
+
+.team_Mem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.team_Mem .form-group {
+  width: 45%; 
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form-check {
+  display: flex;
+  align-items: center;
+}
+
+.form-check input[type='checkbox'] {
+  margin-right: 0.5rem;
+}
+
+.line{
+  width: 40%;
+ 
+}
+.card-body_dd_epf{
+  border: 2px solid black;
+  margin: 30px 50px 50px 50px;
+}
+.create-project-form{
+  width: 60%;
+  margin: 0 auto;
+  margin-top:-10px;
+  padding: 30px;
+  background-color:transparent;
+  color: rgb(18, 18, 18);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+
+} */
+
+
+.card_box{
+  margin-bottom: 50px;
+  width: 45%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(247, 242, 241, 0);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(26, 1, 1, 0.979);
+}
+
+.cardbody {
+ 
+  width: 90%;
+  padding: 0;
+  margin-left: 5%;
+
+}
+
+.card-title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 10px black;
+}
+
+/* textarea.form-control {
+  min-height: 100px;
+} */
+
+
+
+ .date-inputs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date-input {
+  flex: 1;
+  margin-right: 10px;
+}
+
+/* @media (max-width: 768px) {
+  .date-inputs {
+    flex-direction: column;
+  }
+
+  .date-input {
+    flex: none;
+    margin-right: 0;
+    margin-bottom: 10px; 
+  }
+} */
+
+
+.button-group {
+  display: flex;
+  margin-top: 20px;
+ 
+}
+
+.button-group button {
+  margin-right: 10px; 
+}
+
+
+.team_Mem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.team_Mem .form-group {
+  width: 45%; 
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form-check {
+  display: flex;
+  align-items: center;
+}
+
+.form-check input[type='checkbox'] {
+  margin-right: 0.5rem;
+}
+
+.line{
+  width: 40%;
+ 
+}
+.card-body_dd_epf{
+  border: 2px solid black;
+  margin: 30px 50px 50px 50px;
+}
+.create-project-form{
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 50px;
+  
+  padding: 30px;
+  background-color: #d2e3eb;
+  color: rgb(18, 18, 18);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+
+}
+

@@ -1,0 +1,46 @@
+.sidbtn:hover{
+    border-style:inset;
+    border-color: aquamarine;
+   
+    border-width: 6px;
+    
+}
+.sidbgcol{
+    background-color: black;
+}
+.closecss{
+    background-color: white;
+}
+.sidtext{
+    color: aliceblue;
+}
+.sidtexthover:hover{
+    border: 5px;
+    border-width: 10px;
+    width: 200px;
+    border-color:rgb(179, 222, 230);
+    background-color: rgb(179, 222, 230);
+    padding-left: 100px;
+    padding-right: 100px;
+    border-style: dotted;
+    border-radius: 10px;
+    
+}
+.sidtexthover1:hover{
+    border: 5px;
+    border-width: 10px;
+    width: 200px;
+    border-color:rgb(179, 222, 230);
+    background-color: rgb(179, 222, 230);
+    padding-left: 100px;
+    padding-right: 40px;
+    border-style: dotted;
+    border-radius: 10px;
+    
+}
+
+
+.dd_meter{
+    width: 200px;
+    height: 40px;
+}

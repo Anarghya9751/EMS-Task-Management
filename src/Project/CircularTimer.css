@@ -1,0 +1,43 @@
+.circular-timer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px; 
+}
+
+.circular-timer-wrapper {
+    position: relative;
+}
+
+.circular-progress {
+    transform: rotate(-90deg);
+}
+
+.circular-progress-background {
+    fill: none;
+    stroke: #e6e6e6;
+}
+
+.circular-progress-bar {
+    fill: none;
+    stroke-linecap: round;
+    transform-origin: 50% 50%;
+    transition: stroke-dashoffset 0.3s;
+}
+
+.progress-label {
+    font-size: 10px;
+    fill: #333;
+    font-weight: bold;
+    text-anchor: middle;
+    transform-origin: 50% 50%;
+    transform: translateY(-3px);
+}
+
+.color-meanings {
+    font-size: 12px;
+}
+
+.color-meanings p {
+    margin: 0;
+}

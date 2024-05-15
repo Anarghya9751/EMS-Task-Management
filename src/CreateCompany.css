@@ -1,0 +1,23 @@
+.card_cc_dd{
+  border: 2px solid rgb(252, 251, 253);
+  box-shadow: 1px 1px 10px rgb(7, 6, 7);
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+.spbtn_cc_dd{
+  background-color: rgb(130, 130, 227);
+  
+}
+.img_cc{
+  width: 150px;
+  height: 240px;
+}
+.inputb_dd{
+  border: 4px solid white;
+ 
+  box-shadow: 1px 1px 15px black;
+}
+.inputb_dd :hover{
+  background-color: aliceblue;
+}
